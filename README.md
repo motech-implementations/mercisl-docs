@@ -1,0 +1,1 @@
+This is a javadoc documentation of MERCISL project. See link -> https://github.com/motech-implementations/mots/tree/mercisl
